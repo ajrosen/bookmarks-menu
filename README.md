@@ -45,7 +45,7 @@ menu functions.
 
 I don't have many bookmarks, and I don't use them much.  I wanted to
 add a *Bookmarks* menu, like in web browsers, as a reminder of how
-useful Emacs bookmarks can be.
+useful Emacs bookmarks can be.  Maybe I'll use them more...
 
 I couldn't find good examples that satisfied my requirements (and
 worked).
