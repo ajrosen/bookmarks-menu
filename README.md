@@ -5,8 +5,8 @@ Add a *Bookmarks* menu to the menu bar.
 
 ## Installation
 
-Add either `(buffers-menu-mode t)`, to enable the minor mode, or
-`(buffers-menu-add-menu)` to your init file.
+Add either `(bookmarks-menu-mode t)`, to enable the minor mode, or
+`(bookmarks-menu-add-menu)` to your init file.
 
 
 ## Customization
